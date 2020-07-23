@@ -13,6 +13,8 @@
 <a href="https://github.com/imdeep2905">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=imdeep2905&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
 </a>
+<!--
 <a href="https://github.com/imdeep2905?tab=repositories">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=imdeep2905&theme=tokyonight&hide_langs_below=0&title_color=FFFFFF&line_height=25" />
 </a>
+-->
