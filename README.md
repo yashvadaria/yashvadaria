@@ -5,7 +5,10 @@
 -->
 
 ### Hello World :loop: !!!
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/deep-raval/)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin)](https://www.linkedin.com/in/deep-raval/)
+[![Twitter Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=twitter)](https://twitter.com/deep_raval_2905)
+[![Instagram Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=instagram)](https://www.instagram.com/deep_raval_2905/)
+
 ---
 <a href="https://github.com/imdeep2905">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=imdeep2905&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
