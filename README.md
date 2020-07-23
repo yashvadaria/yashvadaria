@@ -13,7 +13,7 @@
 </a>
 
 <a href="https://github.com/imdeep2905">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=imdeep2905&show_icons=true&theme=tokyonight&line_height=40&title_color=FFFFFF"
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=imdeep2905&show_icons=true&theme=tokyonight&line_height=30&title_color=FFFFFF"
 </a>
 
 
