@@ -1,21 +1,15 @@
-<!--
-### Hello World :loop: !!!
 
-![Deep's github stats](https://github-readme-stats.vercel.app/api?username=imdeep2905&show_icons=true)
--->
 
 ### Hello World :loop: !!!
-![](https://komarev.com/ghpvc/?username=imdeep2905&color=blue)
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=imdeep2905&color=blue)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin)](https://www.linkedin.com/in/deep-raval/)
 [![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=212121&logo=twitter)](https://twitter.com/deep_raval_2905)
 [![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=212121&logo=instagram)](https://www.instagram.com/deep_raval_2905/)
----
+
 
 <a href="https://github.com/imdeep2905">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=imdeep2905&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
 </a>
-<!--
-<a href="https://github.com/imdeep2905?tab=repositories">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=imdeep2905&theme=tokyonight&hide_langs_below=0&title_color=FFFFFF&line_height=25" />
-</a>
--->
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
