@@ -11,4 +11,4 @@
 <a href="https://github.com/imdeep2905">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=imdeep2905&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
 </a>
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of my repositories!</h3>
