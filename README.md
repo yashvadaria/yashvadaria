@@ -1,6 +1,6 @@
 
 ### Hello World :loop: !!!
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+![image](https://github.com/imdeep2905/imdeep2905/blob/master/imgs/dino.gif)
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=imdeep2905&color=blue)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin)](https://www.linkedin.com/in/deep-raval/)
