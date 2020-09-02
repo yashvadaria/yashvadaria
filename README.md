@@ -21,4 +21,5 @@
 <!--END_SECTION:activity-->
 -->
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of my repositories!</h3>
+---
+<h3 align="center">Show some :heart: by starring some of my repositories!</h3>
