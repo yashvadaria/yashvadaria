@@ -14,11 +14,11 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=imdeep2905&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
 </a>
 
-
+<!--
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
-
+-->
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of my repositories!</h3>
