@@ -1,11 +1,36 @@
 
-### Hello World :loop: !!!
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://discord.gg/qFYW3Ks">
+  <img align="left" alt="Deep's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/deep_raval_2905">
+  <img align="left" alt="Deep Raval | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/deep-raval/">
+  <img align="left" alt="Deep's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/imdeep2905">
+  <img align="left" alt="Deep's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/deep_raval_2905/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/user/deepraval2905/">
+  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://codeforces.com/profile/deep2905">
+  <img align="left" alt="Deep's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+</a>
+<a href="https://www.codechef.com/users/deep2905">
+  <img align="left" alt="Deep's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="Deep's Profile Views" src="https://komarev.com/ghpvc/?username=imdeep2905&color=blue" />
+</a>
+
+---
 ![image](https://github.com/imdeep2905/imdeep2905/blob/master/imgs/dino.gif)
 ---
-![Profile views](https://komarev.com/ghpvc/?username=imdeep2905&color=blue)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin)](https://www.linkedin.com/in/deep-raval/)
-[![Twitter Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=212121&logo=twitter)](https://twitter.com/deep_raval_2905)
-[![Instagram Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=212121&logo=instagram)](https://www.instagram.com/deep_raval_2905/)
 
 
 ### :zap: Github Stats
