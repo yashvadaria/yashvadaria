@@ -52,4 +52,4 @@
 
 
 ---
-<h3 align="center">Show some <img src="https://media.giphy.com/media/bErElGdAHUmoE/giphy.gif" width="35px" > by starring some of my repositories!</h3>
+<h3 align="center">Show some <img src="https://media.giphy.com/media/oupKcowRzsad2/giphy.gif" width="50px" > by starring some of my repositories!</h3>
