@@ -1,5 +1,5 @@
 
-### Hello World <img src="https://media.giphy.com/media/teJYxHEPuPe5G/giphy.gif" width="50px">
+### Hello World <img src="https://media.giphy.com/media/teJYxHEPuPe5G/giphy.gif" width="25px" > !!
 <a href="https://www.linkedin.com/in/deep-raval/" target="_blank">
   <img align="left" alt="Deep's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
