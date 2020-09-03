@@ -27,10 +27,10 @@
 <a href="#">
   <img align="left" alt="Deep's Profile Views" src="https://komarev.com/ghpvc/?username=imdeep2905&color=blue" />
 </a>
-
-
-![image](https://github.com/imdeep2905/imdeep2905/blob/master/imgs/dino.gif)
----
+</br>
+</hr>
+<img src="https://github.com/imdeep2905/imdeep2905/blob/master/imgs/dino.gif" />
+</hr>
 
 
 ### :zap: Github Stats
