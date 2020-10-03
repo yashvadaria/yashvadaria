@@ -43,11 +43,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1457](https://github.com/VAR-solutions/Algorithms/pull/1457) in [VAR-solutions/Algorithms](https://github.com/VAR-solutions/Algorithms)
-2. 🗣 Commented on [#1726](https://github.com/openai/gym/issues/1726) in [openai/gym](https://github.com/openai/gym)
-3. ❗️ Opened issue [#5093](https://github.com/timburgan/timburgan/issues/5093) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-4. ❗️ Opened issue [#232](https://github.com/benjaminsampica/benjaminsampica/issues/232) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-5. ❗️ Opened issue [#5055](https://github.com/timburgan/timburgan/issues/5055) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. 💪 Opened PR [#1153](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1153) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+2. 💪 Opened PR [#1457](https://github.com/VAR-solutions/Algorithms/pull/1457) in [VAR-solutions/Algorithms](https://github.com/VAR-solutions/Algorithms)
+3. 🗣 Commented on [#1726](https://github.com/openai/gym/issues/1726) in [openai/gym](https://github.com/openai/gym)
+4. ❗️ Opened issue [#5093](https://github.com/timburgan/timburgan/issues/5093) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+5. ❗️ Opened issue [#232](https://github.com/benjaminsampica/benjaminsampica/issues/232) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
 <!--END_SECTION:activity-->
 
 
