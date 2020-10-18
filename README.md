@@ -43,11 +43,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1322](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1322) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-2. 💪 Opened PR [#1237](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1237) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-3. 💪 Opened PR [#1153](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1153) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-4. 💪 Opened PR [#1457](https://github.com/VAR-solutions/Algorithms/pull/1457) in [VAR-solutions/Algorithms](https://github.com/VAR-solutions/Algorithms)
-5. 🗣 Commented on [#1726](https://github.com/openai/gym/issues/1726) in [openai/gym](https://github.com/openai/gym)
+1. 💪 Opened PR [#1589](https://github.com/VAR-solutions/Algorithms/pull/1589) in [VAR-solutions/Algorithms](https://github.com/VAR-solutions/Algorithms)
+2. 💪 Opened PR [#1322](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1322) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+3. 💪 Opened PR [#1237](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1237) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+4. 💪 Opened PR [#1153](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1153) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+5. 💪 Opened PR [#1457](https://github.com/VAR-solutions/Algorithms/pull/1457) in [VAR-solutions/Algorithms](https://github.com/VAR-solutions/Algorithms)
 <!--END_SECTION:activity-->
 
 
