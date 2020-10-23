@@ -27,6 +27,9 @@
 <a href="#">
   <img align="left" alt="Deep's Profile Views" src="https://komarev.com/ghpvc/?username=imdeep2905&color=blue" />
 </a>
+<a href="https://github.com/imdeep2905?tab=followers">
+  <img align="left" alt="Deep's Profile Views" src="https://img.shields.io/github/followers/imdeep2905.svg?style=flat&label=Follow" />
+</a>
 </br>
 </hr>
 <img src="https://github.com/imdeep2905/imdeep2905/blob/master/imgs/dino.gif" />
