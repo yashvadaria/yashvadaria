@@ -3,17 +3,17 @@
 <a href="https://www.linkedin.com/in/deep-raval/" target="_blank">
   <img align="left" alt="Deep's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://twitter.com/deep_raval_2905" target="_blank">
-  <img align="left" alt="Deep Raval | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/deep_raval_2905/" target="_blank">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 <a href="https://codeforces.com/profile/deep2905" target="_blank">
   <img align="left" alt="Deep's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
 <a href="https://www.codechef.com/users/deep2905" target="_blank">
   <img align="left" alt="Deep's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+<a href="https://twitter.com/deep_raval_2905" target="_blank">
+  <img align="left" alt="Deep Raval | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/deep_raval_2905/" target="_blank">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.reddit.com/user/deepraval2905/" target="_blank">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
