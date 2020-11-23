@@ -32,7 +32,10 @@
 </a>
 </br>
 </hr>
-<img src="https://github.com/imdeep2905/imdeep2905/blob/master/imgs/dino.gif" />
+<p align="center">
+<!--<img src="https://github.com/imdeep2905/imdeep2905/blob/master/imgs/dino.gif" />-->
+<img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight" />
+</p>
 </hr>
 
 
