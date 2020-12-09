@@ -59,4 +59,6 @@
 
 
 ---
-<h3 align="center">Show some <img src="https://media.giphy.com/media/oupKcowRzsad2/giphy.gif" width="50px" > by starring some of the repositories!</h3>
+<h3 align="center">Show some :heart: by starring some of the repositories!</h3>
+
+<!--<h3 align="center">Show some <img src="https://media.giphy.com/media/l0K4kWJir91VEoa1W/giphy.gif" width="75px" > by starring some of the repositories!</h3>-->
