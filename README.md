@@ -1,8 +1,19 @@
+<!--Header-->
+<h1> Hello World <img src="https://i.gifer.com/origin/0c/0c71e4577721c09ecca15af4f273e4d0_w200.gif" width="25px" height="25px" > !!
+<a href="#">
+  <img alt="Deep's Profile Views" src="https://komarev.com/ghpvc/?username=imdeep2905&color=blue" />
+</a>
+<a href="https://github.com/imdeep2905?tab=followers">
+  <img alt="Deep's Profile Views" src="https://img.shields.io/github/followers/imdeep2905.svg?style=flat&label=Follow" />
+</a>
+</h1>
 
-## Hello World <img src="https://i.gifer.com/origin/0c/0c71e4577721c09ecca15af4f273e4d0_w200.gif" width="25px" height="25px" > !! 
-
+<!--Mid GIF-->
+</hr>
 <img align="center" src="https://github.com/imdeep2905/imdeep2905/blob/master/imgs/dino.gif" />
+</hr>
 
+<!--Social-->
 <a href="mailto:deepraval2905@gmail.com" target="_blank">
   <img align="left" alt="Deep's Email" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
 </a>
@@ -29,12 +40,6 @@
 </a>
 <a href="https://discord.gg/qFYW3Ks" target="_blank">
   <img align="left" alt="Deep's Discord" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />
-</a>
-<a href="#">
-  <img align="left" alt="Deep's Profile Views" src="https://komarev.com/ghpvc/?username=imdeep2905&color=blue" />
-</a>
-<a href="https://github.com/imdeep2905?tab=followers">
-  <img align="left" alt="Deep's Profile Views" src="https://img.shields.io/github/followers/imdeep2905.svg?style=flat&label=Follow" />
 </a>
 </br>
 </hr>
