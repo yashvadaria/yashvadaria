@@ -1,7 +1,10 @@
 
 ### Hello World <img src="https://media.giphy.com/media/teJYxHEPuPe5G/giphy.gif" width="25px" > !! 
+
+<img align="center" src="https://github.com/imdeep2905/imdeep2905/blob/master/imgs/dino.gif" />
+
 <a href="https://www.linkedin.com/in/deep-raval/" target="_blank">
-  <img align="left" alt="Deep's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Deep's Linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 <a href="https://codeforces.com/profile/deep2905" target="_blank">
   <img align="left" alt="Deep's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
@@ -10,19 +13,19 @@
   <img align="left" alt="Deep's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <a href="https://twitter.com/deep_raval_2905" target="_blank">
-  <img align="left" alt="Deep Raval | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Deep's Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
 </a>
 <a href="https://www.instagram.com/deep_raval_2905/" target="_blank">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Deep's Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
 <a href="https://www.reddit.com/user/deepraval2905/" target="_blank">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="left" alt="Deep's Reddit" src="https://img.icons8.com/fluent/48/000000/reddit.png" />
 </a>
 <a href="https://t.me/imdeep2905" target="_blank">
-  <img align="left" alt="Deep's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Deep's Telegram" src="https://img.icons8.com/color/48/000000/telegram-app.png" />
 </a>
 <a href="https://discord.gg/qFYW3Ks" target="_blank">
-  <img align="left" alt="Deep's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="Deep's Discord" src="https://img.icons8.com/fluent/48/000000/discord-logo.png" />
 </a>
 <a href="#">
   <img align="left" alt="Deep's Profile Views" src="https://komarev.com/ghpvc/?username=imdeep2905&color=blue" />
@@ -34,8 +37,8 @@
 </hr>
 <p align="center">
 </br>
-<!--<img src="https://github.com/imdeep2905/imdeep2905/blob/master/imgs/dino.gif" />-->
-<img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight" />
+
+<!--<img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight" /> -->
 </p>
 </hr>
 
