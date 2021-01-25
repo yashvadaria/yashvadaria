@@ -10,7 +10,9 @@
 
 <!--Mid GIF-->
 </hr>
-<img align="center" src="https://github.com/imdeep2905/imdeep2905/blob/master/imgs/dino.gif" />
+<p align="center">
+<img align="center" src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif" width="100%"/>
+</p>
 </hr>
 </br>
 
