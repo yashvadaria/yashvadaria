@@ -1,5 +1,5 @@
 
-## Hello World <img src="https://i.gifer.com/origin/0c/0c71e4577721c09ecca15af4f273e4d0_w200.gif" width="50px" height="50px" > !! 
+## Hello World <img src="https://i.gifer.com/origin/0c/0c71e4577721c09ecca15af4f273e4d0_w200.gif" width="25px" height="25px" > !! 
 
 <img align="center" src="https://github.com/imdeep2905/imdeep2905/blob/master/imgs/dino.gif" />
 
