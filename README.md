@@ -12,16 +12,19 @@
 </hr>
 <img align="center" src="https://github.com/imdeep2905/imdeep2905/blob/master/imgs/dino.gif" />
 </hr>
-
-
 </br>
 
 ### :zap: Github Stats
 
 <a href="https://github.com/imdeep2905">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=imdeep2905&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=imdeep2905&layout=compact&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
 </a>
 
+### :computer: Language Stats
+
+<a href="https://github.com/imdeep2905">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdeep2905&layout=compact&&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
+</a>
 
 ### :zap: Recent Activity
 
