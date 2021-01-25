@@ -16,18 +16,16 @@
 
 ### :zap: Github Stats
 
+<p align="left">
 <a href="https://github.com/imdeep2905">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=imdeep2905&layout=compact&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
+  <img align="center" height="180px" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=imdeep2905&layout=compact&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
 </a>
-
-### :computer: Language Stats
-
 <a href="https://github.com/imdeep2905">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdeep2905&layout=compact&&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdeep2905&layout=compact&&show_icons=true&theme=tokyonight&line_height=27&title_color=FFFFFF"
 </a>
+</p>
 
 ### :zap: Recent Activity
-
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1322](https://github.com/TheAlgorithms/C-Plus-Plus/issues/1322) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
 2. 💪 Opened PR [#1331](https://github.com/TheAlgorithms/C-Plus-Plus/pull/1331) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
