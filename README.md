@@ -1,5 +1,5 @@
 
-### Hello World <img src="https://media.giphy.com/media/teJYxHEPuPe5G/giphy.gif" width="25px" > !! 
+### Hello World <img src="https://thumbs.gfycat.com/OrneryUnluckyAngwantibo-max-1mb.gif" width="30px" height="20px" > !! 
 
 <img align="center" src="https://github.com/imdeep2905/imdeep2905/blob/master/imgs/dino.gif" />
 
