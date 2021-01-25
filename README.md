@@ -3,14 +3,17 @@
 
 <img align="center" src="https://github.com/imdeep2905/imdeep2905/blob/master/imgs/dino.gif" />
 
+<a href="mailto:deepraval2905@gmail.com" target="_blank">
+  <img align="left" alt="Deep's Email" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png"/>
+</a>
 <a href="https://www.linkedin.com/in/deep-raval/" target="_blank">
   <img align="left" alt="Deep's Linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
 <a href="https://codeforces.com/profile/deep2905" target="_blank">
-  <img align="left" alt="Deep's Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
+  <img align="left" alt="Deep's Codeforces" width="60px" src="https://lh3.googleusercontent.com/-9azrA7GgyNpNVfHRI5xLhRyy4OuqevecUAjUFFfpJccTGHkdd4oXYfw11Z5-jxlDRM=s200" />
 </a>
 <a href="https://www.codechef.com/users/deep2905" target="_blank">
-  <img align="left" alt="Deep's CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="left" alt="Deep's CodeChef" width="48px" src="https://s3.amazonaws.com/codechef_shared/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png"/>
 </a>
 <a href="https://twitter.com/deep_raval_2905" target="_blank">
   <img align="left" alt="Deep's Twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
