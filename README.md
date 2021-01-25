@@ -11,7 +11,7 @@
 <!--Mid GIF-->
 </hr>
 <p align="center">
-<img align="center" src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif" width="100%"/>
+<img align="center" src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif" width="100%" height="350px"/>
 </p>
 </hr>
 </br>
