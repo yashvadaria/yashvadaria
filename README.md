@@ -45,7 +45,7 @@
 <a href="https://www.linkedin.com/in/deep-raval/" target="_blank">
   <img align="center" alt="Deep's Linkedin" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 </a>
-<a href="https://codeforces.com/profile/deep2905" target="_blank">
+<a href="https://codeforces.com/profile/ZetaFunction" target="_blank">
   <img align="center" alt="Deep's Codeforces" width="60px" src="https://lh3.googleusercontent.com/-9azrA7GgyNpNVfHRI5xLhRyy4OuqevecUAjUFFfpJccTGHkdd4oXYfw11Z5-jxlDRM=s200" />
 </a>
 <a href="https://www.codechef.com/users/deep2905" target="_blank">
