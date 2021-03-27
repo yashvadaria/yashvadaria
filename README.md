@@ -30,11 +30,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/imdeep2905/cf-arena/pull/5) in [imdeep2905/cf-arena](https://github.com/imdeep2905/cf-arena)
-2. 🎉 Merged PR [#1](https://github.com/imdeep2905/cf-arena/pull/1) in [imdeep2905/cf-arena](https://github.com/imdeep2905/cf-arena)
-3. 💪 Opened PR [#1](https://github.com/imdeep2905/cf-arena/pull/1) in [imdeep2905/cf-arena](https://github.com/imdeep2905/cf-arena)
-4. 💪 Opened PR [#1](https://github.com/RushiChandalia/First-BlockChain/pull/1) in [RushiChandalia/First-BlockChain](https://github.com/RushiChandalia/First-BlockChain)
-5. ❗️ Opened issue [#11030](https://github.com/timburgan/timburgan/issues/11030) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. 🎉 Merged PR [#6](https://github.com/imdeep2905/cf-arena/pull/6) in [imdeep2905/cf-arena](https://github.com/imdeep2905/cf-arena)
+2. 💪 Opened PR [#7](https://github.com/imdeep2905/cf-arena/pull/7) in [imdeep2905/cf-arena](https://github.com/imdeep2905/cf-arena)
+3. 💪 Opened PR [#5](https://github.com/imdeep2905/cf-arena/pull/5) in [imdeep2905/cf-arena](https://github.com/imdeep2905/cf-arena)
+4. 🎉 Merged PR [#1](https://github.com/imdeep2905/cf-arena/pull/1) in [imdeep2905/cf-arena](https://github.com/imdeep2905/cf-arena)
+5. 💪 Opened PR [#1](https://github.com/imdeep2905/cf-arena/pull/1) in [imdeep2905/cf-arena](https://github.com/imdeep2905/cf-arena)
 <!--END_SECTION:activity-->
 
 <!--Social-->
