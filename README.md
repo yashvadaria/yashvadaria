@@ -30,11 +30,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/imdeep2905/cf-arena/pull/25) in [imdeep2905/cf-arena](https://github.com/imdeep2905/cf-arena)
-2. 💪 Opened PR [#25](https://github.com/imdeep2905/cf-arena/pull/25) in [imdeep2905/cf-arena](https://github.com/imdeep2905/cf-arena)
-3. 🎉 Merged PR [#24](https://github.com/imdeep2905/cf-arena/pull/24) in [imdeep2905/cf-arena](https://github.com/imdeep2905/cf-arena)
-4. 🎉 Merged PR [#23](https://github.com/imdeep2905/cf-arena/pull/23) in [imdeep2905/cf-arena](https://github.com/imdeep2905/cf-arena)
-5. 💪 Opened PR [#23](https://github.com/imdeep2905/cf-arena/pull/23) in [imdeep2905/cf-arena](https://github.com/imdeep2905/cf-arena)
+1. 🎉 Merged PR [#1](https://github.com/imdeep2905/Turing-Q-Learning/pull/1) in [imdeep2905/Turing-Q-Learning](https://github.com/imdeep2905/Turing-Q-Learning)
+2. 🎉 Merged PR [#25](https://github.com/imdeep2905/cf-arena/pull/25) in [imdeep2905/cf-arena](https://github.com/imdeep2905/cf-arena)
+3. 💪 Opened PR [#25](https://github.com/imdeep2905/cf-arena/pull/25) in [imdeep2905/cf-arena](https://github.com/imdeep2905/cf-arena)
+4. 🎉 Merged PR [#24](https://github.com/imdeep2905/cf-arena/pull/24) in [imdeep2905/cf-arena](https://github.com/imdeep2905/cf-arena)
+5. 🎉 Merged PR [#23](https://github.com/imdeep2905/cf-arena/pull/23) in [imdeep2905/cf-arena](https://github.com/imdeep2905/cf-arena)
 <!--END_SECTION:activity-->
 
 <!--Social-->
