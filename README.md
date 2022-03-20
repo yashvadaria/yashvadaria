@@ -30,11 +30,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/imdeep2905/smorgin/issues/2) in [imdeep2905/smorgin](https://github.com/imdeep2905/smorgin)
-2. 🎉 Merged PR [#1](https://github.com/imdeep2905/smorgin/pull/1) in [imdeep2905/smorgin](https://github.com/imdeep2905/smorgin)
-3. 💪 Opened PR [#1](https://github.com/imdeep2905/smorgin/pull/1) in [imdeep2905/smorgin](https://github.com/imdeep2905/smorgin)
-4. 🎉 Merged PR [#4](https://github.com/imdeep2905/Turing-Q-Learning/pull/4) in [imdeep2905/Turing-Q-Learning](https://github.com/imdeep2905/Turing-Q-Learning)
-5. 💪 Opened PR [#4](https://github.com/imdeep2905/Turing-Q-Learning/pull/4) in [imdeep2905/Turing-Q-Learning](https://github.com/imdeep2905/Turing-Q-Learning)
+1. ❗️ Opened issue [#4](https://github.com/imdeep2905/smorgin/issues/4) in [imdeep2905/smorgin](https://github.com/imdeep2905/smorgin)
+2. 🎉 Merged PR [#3](https://github.com/imdeep2905/smorgin/pull/3) in [imdeep2905/smorgin](https://github.com/imdeep2905/smorgin)
+3. ❗️ Closed issue [#2](https://github.com/imdeep2905/smorgin/issues/2) in [imdeep2905/smorgin](https://github.com/imdeep2905/smorgin)
+4. 💪 Opened PR [#3](https://github.com/imdeep2905/smorgin/pull/3) in [imdeep2905/smorgin](https://github.com/imdeep2905/smorgin)
+5. ❗️ Opened issue [#2](https://github.com/imdeep2905/smorgin/issues/2) in [imdeep2905/smorgin](https://github.com/imdeep2905/smorgin)
 <!--END_SECTION:activity-->
 
 <!--Social-->
