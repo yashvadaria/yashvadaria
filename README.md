@@ -30,11 +30,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/imdeep2905/smorgin/issues/4) in [imdeep2905/smorgin](https://github.com/imdeep2905/smorgin)
-2. 🎉 Merged PR [#3](https://github.com/imdeep2905/smorgin/pull/3) in [imdeep2905/smorgin](https://github.com/imdeep2905/smorgin)
-3. ❗️ Closed issue [#2](https://github.com/imdeep2905/smorgin/issues/2) in [imdeep2905/smorgin](https://github.com/imdeep2905/smorgin)
-4. 💪 Opened PR [#3](https://github.com/imdeep2905/smorgin/pull/3) in [imdeep2905/smorgin](https://github.com/imdeep2905/smorgin)
-5. ❗️ Opened issue [#2](https://github.com/imdeep2905/smorgin/issues/2) in [imdeep2905/smorgin](https://github.com/imdeep2905/smorgin)
+1. ❗️ Opened issue [#6](https://github.com/imdeep2905/smorgin/issues/6) in [imdeep2905/smorgin](https://github.com/imdeep2905/smorgin)
+2. ❗️ Closed issue [#4](https://github.com/imdeep2905/smorgin/issues/4) in [imdeep2905/smorgin](https://github.com/imdeep2905/smorgin)
+3. 🎉 Merged PR [#5](https://github.com/imdeep2905/smorgin/pull/5) in [imdeep2905/smorgin](https://github.com/imdeep2905/smorgin)
+4. 💪 Opened PR [#5](https://github.com/imdeep2905/smorgin/pull/5) in [imdeep2905/smorgin](https://github.com/imdeep2905/smorgin)
+5. ❗️ Opened issue [#4](https://github.com/imdeep2905/smorgin/issues/4) in [imdeep2905/smorgin](https://github.com/imdeep2905/smorgin)
 <!--END_SECTION:activity-->
 
 <!--Social-->
