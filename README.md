@@ -1,10 +1,10 @@
 <!--Header-->
 <h1> Hello World <img src="https://i.gifer.com/origin/0c/0c71e4577721c09ecca15af4f273e4d0_w200.gif" width="25px" height="25px" > !!
 <a href="#">
-  <img alt="Deep's Profile Views" src="https://komarev.com/ghpvc/?username=imdeep2905&color=blue" />
+  <img  src="https://komarev.com/ghpvc/?username=yashvadaria&color=blue" />
 </a>
 <a href="https://github.com/yashvadaria">
-  <img alt="Deep's Profile Views" src="https://img.shields.io/github/followers/imdeep2905.svg?style=flat&label=Follow" />
+  <img alt="Deep's Profile Views" src="https://img.shields.io/github/followers/yashvadaria.svg?style=flat&label=Follow" />
 </a>
 </h1>
 
@@ -17,6 +17,3 @@
 </hr>
 </br>
 
-<!--OLD-->
-<!--<h3 align="center">Show some <img src="https://media.giphy.com/media/l0K4kWJir91VEoa1W/giphy.gif" width="75px" > by starring some of the repositories!</h3>-->
-<!--<img src="https://github-readme-quotes.herokuapp.com/quote?theme=tokyonight" /> -->
